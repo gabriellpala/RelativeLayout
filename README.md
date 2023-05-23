@@ -10,3 +10,5 @@
 > Clique no botão "Converter".
 
 > O resultado da conversão será exibido nas caixas de texto abaixo, mostrando a temperatura em Fahrenheit e Kelvin.
+
+> SDK 30
